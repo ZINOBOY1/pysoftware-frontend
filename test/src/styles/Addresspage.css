@@ -1,0 +1,47 @@
+.address-page {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .address-list {
+    margin-top: 20px;
+  }
+  
+  .address-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .address-list li {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+  
+  .address-list button {
+    background-color: #00796b;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .address-list button:hover {
+    background-color: #004d40;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+  }
+  

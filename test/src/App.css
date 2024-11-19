@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.navbar {
+  margin-bottom: 1rem;
+}
+
+.container {
+  padding-top: 2rem;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding-top: 1rem;
+  }
+}
